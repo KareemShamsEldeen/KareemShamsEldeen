@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kareem Hossam</h1>
+<h1 align="center">Hi, I'm Kareem Hossam</h1>
 <h3 align="center">⚡Networks and Cyber Security student seeking to be a Cyber Security and Ethical Hacking expert. excellent at problem solving. Want to learn more and more and be the best of the best.</h3>
 
+<div align=center>
+        <img src="https://www.gifcen.com/wp-content/uploads/2022/06/zoro-gif-10.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 
 ## Connect with me:
 <p align="left">
