@@ -2,7 +2,7 @@
 <h3 align="center">⚡Networks and Cyber Security student seeking to be a Cyber Security and Ethical Hacking expert. excellent at problem solving. Want to learn more and more and be the best of the best.</h3>
 
 <div align=center>
-        <img src="https://64.media.tumblr.com/bec3ae30dd6db35ea27a608ee55655fd/59eeb9d5cb94e9a2-21/s540x810/ef08f06f1ba50763decc765e1510c753e0c02e82.gifv" alt="zoro" height="200">
+        <img src="https://i.pinimg.com/originals/2f/c6/bb/2fc6bba1af22202172b4cf81a41b4f1a.gif" alt="zoro" height="200">
     </div>
 
 ## Connect with me:
